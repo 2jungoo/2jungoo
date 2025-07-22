@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Jungoo Lee (이준구)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0a192f&height=180&section=header&text=Hi,%20I'm%20Jungoo%20👨‍💻&fontColor=ffffff&fontSize=35&animation=twinkling" />
+
 
 🎓 I'm an undergraduate student majoring in **Artificial Intelligence (AI)** .  
 🚀 Passionate about computer vision, deep learning, and real-world AI applications.
