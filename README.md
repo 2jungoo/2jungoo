@@ -17,7 +17,7 @@
   - Applied AI for education, safety, and accessibility
 
 ---
-![JG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungoo&theme=dark&show_icons=true)
+![JG's GitHub stats](https://github-readme-stats.vercel.app/api?username=2jungoo&theme=dark&show_icons=true)
 ## 🚀 Key Projects
 
 ### 🛡️ SafeVision: Driving-Alarm System
