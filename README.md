@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Jungoo Lee (이준구)
 
-<!--
-**2jungoo/2jungoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate student majoring in **Artificial Intelligence (AI)** and an active member of the **AI:ble** club — a group committed to making the impossible possible through AI.  
+🚀 Passionate about computer vision, deep learning, and real-world AI applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🔭 Currently working on:
+  - 🚗 Autonomous Driving with Jetson & RC car (Lane detection, Obstacle avoidance, YOLO)
+  - 📌 AI defect detection for PCB datasets using CNNs and EfficientNet
+  - 🧠 Research assistant in undergraduate AI lab (LLM benchmarking, SAM + GAN inpainting)
+- 📚 Interested in:
+  - Vision-language models (VLMs)
+  - Lightweight deep learning for edge devices
+  - Applied AI for education, safety, and accessibility
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, C, C++, Markdown
+- **Frameworks**: PyTorch, TensorFlow, OpenCV, ROS
+- **Tools**: Git/GitHub, Google Colab, VSCode, Jupyter, Ubuntu
+- **Hardware**: Jetson Nano/Xavier, Raspberry Pi, Lidar, RC Cars
+
+---
+
+## 📌 Featured Projects
+
+- 🔍 **PCB Defect Detection with Multi-label CNNs**
+  - Explores EfficientNet-B0 and ensemble CNNs for 6-class PCB defect detection
+- 🧩 **SAM + GAN Image Inpainting**
+  - Region-based background replacement using Segment Anything + LaMa GAN
+- 🏁 **RC Car Autonomous Driving**
+  - Real-time lane & vehicle detection with YOLOv8 and Pure Pursuit control
+
+---
+
+## 📫 How to reach me
+
+- ✉️ Email: jungoo.ai.lab@gmail.com  
+- 🔗 [Portfolio Website (Coming Soon)]()  
+- 🧠 AI Club: [AI:ble GitHub](https://github.com/your-ai-club-link)
+
+---
+
+_“The best way to predict the future is to create it.”_ — Alan Kay
