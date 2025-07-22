@@ -17,7 +17,7 @@
   - Applied AI for education, safety, and accessibility
 
 ---
-![JG's GitHub stats](https://github-readme-stats.vercel.app/api?username=2jungoo&theme=dark&show_icons=true)
+
 ## 🚀 Key Projects
 
 ### 🛡️ SafeVision: Driving-Alarm System
@@ -73,5 +73,6 @@ A regression model for predicting a car’s fuel efficiency using traditional ma
 - 🔗 [Portfolio Website (Coming Soon)]()  
 
 ---
-
+![jungoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=2jungoo&theme=dark&show_icons=true)
+[![jungoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2jungoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/2jungoo)
 
