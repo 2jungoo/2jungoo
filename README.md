@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jungoo Lee (이준구)
 
-🎓 I'm an undergraduate student majoring in **Artificial Intelligence (AI)** and an active member of the **AI:ble** club — a group committed to making the impossible possible through AI.  
+🎓 I'm an undergraduate student majoring in **Artificial Intelligence (AI)** .  
 🚀 Passionate about computer vision, deep learning, and real-world AI applications.
 
 ---
