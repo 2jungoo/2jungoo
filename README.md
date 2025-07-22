@@ -40,10 +40,9 @@
 
 ## 📫 How to reach me
 
-- ✉️ Email: jungoo.ai.lab@gmail.com  
+- ✉️ Email: wnsrn8211@gmail.com
 - 🔗 [Portfolio Website (Coming Soon)]()  
-- 🧠 AI Club: [AI:ble GitHub](https://github.com/your-ai-club-link)
 
 ---
 
-_“The best way to predict the future is to create it.”_ — Alan Kay
+
