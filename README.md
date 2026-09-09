@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0a192f&height=180&section=header&text=Hi,%20I'm%20Jungoo%20👨‍💻&fontColor=ffffff&fontSize=35&animation=twinkling" />
 
-**[English](#english) · [한국어](#한국어)**
-
 ---
-
-## English
 
 🎓 Undergraduate student in AI Applications at Hansung University. Interested in Computer Vision, autonomous driving, and wireless networks.
 
@@ -55,8 +51,6 @@
 
 ---
 
-## 한국어
-
 🎓 한성대학교 AI응용학부 학부생. Computer Vision, 자율주행, 무선 네트워크에 관심이 있습니다.
 
 ### 🌟 About Me
@@ -103,6 +97,3 @@
 ### 📫 Contact
 
 - ✉️ wnsrn8211@gmail.com
-
----
-![jungoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=2jungoo&theme=dark&show_icons=true)
