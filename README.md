@@ -2,13 +2,13 @@
 
 ---
 
-🎓 M.S. admission at UNICON LAB, Hanyang University. Undergraduate researcher at INC LAB, Dongguk University. AI Applications, Hansung University. Interested in Computer Vision, autonomous driving, and wireless networks.
+🎓 Incoming M.S. student (March 2027) at UNICON LAB, Hanyang University. Undergraduate researcher at INC LAB, Dongguk University (drone clustering). Graduated from AI Applications, Hansung University. Interested in Computer Vision, autonomous driving, and wireless networks.
 
 ### 🌟 About Me
 
 - 🔭 Recent work
-  - 🎓 UNICON LAB, Hanyang University — M.S. program
-  - 🔬 INC LAB, Dongguk University — undergraduate researcher
+  - 🎓 UNICON LAB, Hanyang University — M.S. program starting March 2027
+  - 🔬 INC LAB, Dongguk University — undergraduate researcher, drone clustering
   - 🚗 UNICON LAB undergraduate intern — autonomous driving accident replay & sideslip estimation pipeline
   - 📡 UAV cluster-head selection research — submitted to the 4th KICS HFR Paper Award
   - 🛡️ HeadMon+ — bicycle rider turn prediction (Grand Prize in Creativity, 2025 Hansung Univ. Engineering Contest)
@@ -53,13 +53,13 @@
 
 ---
 
-🎓 한양대학교 UNICON LAB 석사 진학. 동국대학교 INC LAB 학부연구생. 한성대학교 AI응용학부. Computer Vision, 자율주행, 무선 네트워크에 관심이 있습니다.
+🎓 한양대학교 UNICON LAB 석사 진학(2027.03 입학 예정). 동국대학교 INC LAB 학부연구생(드론 클러스터링). 한성대학교 AI응용학부 졸업. Computer Vision, 자율주행, 무선 네트워크에 관심이 있습니다.
 
 ### 🌟 About Me
 
 - 🔭 최근 작업
-  - 🎓 한양대학교 UNICON LAB — 석사 과정
-  - 🔬 동국대학교 INC LAB — 학부연구생
+  - 🎓 한양대학교 UNICON LAB — 석사 과정 (2027.03 입학)
+  - 🔬 동국대학교 INC LAB — 학부연구생, 드론 클러스터링
   - 🚗 UNICON LAB 학부 인턴 — 자율주행 사고 리플레이·사이드슬립 추정 파이프라인
   - 📡 UAV 클러스터헤드 선정 연구 — 제4회 KICS HFR 논문대상 투고
   - 🛡️ HeadMon+ — 자전거 라이더 회전 예측 (2025 한성대 공학경진대회 창의상)
