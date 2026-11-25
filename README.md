@@ -28,7 +28,6 @@
 - **Encouragement Award**, 2025 Hansung SW-Centered University Festival, Corporate-linked Capstone — Poemdx smart pig-farm dashboard ([code](https://github.com/2jungoo/Corporate-Capstone))
 - **Grand Prize**, HANSUNG CAMPUSTOWN AI Startup Idea Contest, 2025 — multimodal lecture-summary platform (led to patent application 10-2025-0212157)
 - **Excellence Award**, 2026 1st-semester Capstone Design Presentation — CCTV-based unmanned-store conversion-rate dashboard ([code](https://github.com/2jungoo/CCTV_digital_twin_based_insight_dashboard_for_unmanned-store))
-- Finalist, Kookmin Univ. Autonomous Driving Contest (126 teams)
 
 ### 🌏 Extracurricular Activities
 
@@ -82,7 +81,6 @@
 - 2025 한성 SW중심대학 페스티벌 기업연계 캡스톤 **장려상** — 포엠디엑스 스마트축사 대시보드 ([코드](https://github.com/2jungoo/Corporate-Capstone))
 - 2025 HANSUNG CAMPUSTOWN AI 창업 아이디어 경진대회 **대상** — 멀티모달 강의 요약 플랫폼 (특허 출원 10-2025-0212157로 이어짐)
 - 2026학년도 1학기 캡스톤디자인 작품발표회 **최우수상** — CCTV 기반 무인매장 구매 전환율 추적 대시보드 ([코드](https://github.com/2jungoo/CCTV_digital_twin_based_insight_dashboard_for_unmanned-store))
-- 국민대 자율주행 경진대회(126팀) 본선 진출
 
 ### 🌏 대내외활동
 
