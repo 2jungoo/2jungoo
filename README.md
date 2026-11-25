@@ -9,9 +9,9 @@
 - 🔭 Recent work
   - 🎓 UNICON LAB, Hanyang University — M.S. program starting March 2027
   - 🔬 INC LAB, Dongguk University — undergraduate researcher, drone clustering
-  - 🚗 UNICON LAB undergraduate intern — autonomous driving accident replay & sideslip estimation pipeline
+  - 🚗 UNICON LAB undergraduate intern — autonomous driving anomaly detector (0 false alarms on normal logs, every injected anomaly caught within 0.005 s), accident replay & sideslip estimation pipeline
   - 📡 UAV cluster-head selection research — submitted to the 4th KICS HFR Paper Award
-  - 🛡️ HeadMon+ — bicycle rider turn prediction (Grand Prize in Creativity, 2025 Hansung Univ. Engineering Contest)
+  - 🛡️ MonoGaze (formerly HeadMon+) — bicycle rider turn prediction (Gold Prize, 22nd Hansung Univ. Engineering Contest, Sep 2026)
 - 📚 Interests: Vision-Language Models, lightweight deep learning, wireless network clustering, Applied AI
 
 ### 📄 Papers & Research
@@ -23,10 +23,11 @@
 
 ### 🏆 Awards
 
+- **Gold Prize**, 22nd Hansung University Engineering Contest, 2026 — MonoGaze (formerly HeadMon+), bicycle rider turn prediction ([code](https://github.com/2jungoo/headmon-plus))
 - **Creativity Award**, KICS Fall Conference Undergraduate Capstone Design Contest, 2025 — AI-based rear-detection safety camera ([SafeVision](https://github.com/2jungoo/safevision))
 - **Encouragement Award**, 2025 Hansung SW-Centered University Festival, Corporate-linked Capstone — Poemdx smart pig-farm dashboard ([code](https://github.com/2jungoo/Corporate-Capstone))
 - **Grand Prize**, HANSUNG CAMPUSTOWN AI Startup Idea Contest, 2025 — multimodal lecture-summary platform (led to patent application 10-2025-0212157)
-- **Grand Prize**, 2026 1st-semester Capstone Design Presentation — CCTV-based unmanned-store conversion-rate dashboard ([code](https://github.com/2jungoo/CCTV_digital_twin_based_insight_dashboard_for_unmanned-store))
+- **Excellence Award**, 2026 1st-semester Capstone Design Presentation — CCTV-based unmanned-store conversion-rate dashboard ([code](https://github.com/2jungoo/CCTV_digital_twin_based_insight_dashboard_for_unmanned-store))
 - Finalist, Kookmin Univ. Autonomous Driving Contest (126 teams)
 
 ### 🌏 Extracurricular Activities
@@ -34,10 +35,12 @@
 - Google Student Ambassador, 1st cohort — selected Best Contents Team among 37 domestic teams
 - SW·AI Industry-Academia overseas program (Singapore, Presto Labs) — abusive trading detection project ([code](https://github.com/2jungoo/Abuse_Detection))
 - 2026 Global Leadership Exploration Program (Shenzhen, China) — drone delivery route optimization ([code](https://github.com/2jungoo/drone-delivery-sim))
+- Photobooth face-image synthesis industry project (HULU) — face swap + GAN super-resolution/denoising pipeline ([code](https://github.com/2jungoo/Facebeauty))
+- Patent application 10-2025-0212157 (Hansung Univ. Industry-Academic Cooperation Foundation, 1 of 9 co-inventors) — automatic summarization and question generation for learning content
 
 ### 🚀 Key Projects
 
-- **[headmon-plus](https://github.com/2jungoo/headmon-plus)** — Head pose + IMU based bicycle rider turn prediction (CNN-LSTM-Attention + DANN)
+- **[headmon-plus](https://github.com/2jungoo/headmon-plus)** — MonoGaze (formerly HeadMon+) model training & evaluation: Head pose + IMU based bicycle rider turn prediction (CNN-LSTM-Attention + DANN)
 - **[Car_Replay](https://github.com/2jungoo/Car_Replay)** — Autonomous driving accident replay & forensic analysis pipeline
 - **[privacy-face-editing](https://github.com/2jungoo/privacy-face-editing)** — LoRA+SAM based controllable face anonymization
 
@@ -60,9 +63,9 @@
 - 🔭 최근 작업
   - 🎓 한양대학교 UNICON LAB — 석사 과정 (2027.03 입학)
   - 🔬 동국대학교 INC LAB — 학부연구생, 드론 클러스터링
-  - 🚗 UNICON LAB 학부 인턴 — 자율주행 사고 리플레이·사이드슬립 추정 파이프라인
+  - 🚗 UNICON LAB 학부 인턴 — 자율주행 이상검출기(정상 로그 오검출 0건, 주입한 이상 신호 0.005초 이내 전량 검출), 사고 리플레이·사이드슬립 추정 파이프라인
   - 📡 UAV 클러스터헤드 선정 연구 — 제4회 KICS HFR 논문대상 투고
-  - 🛡️ HeadMon+ — 자전거 라이더 회전 예측 (2025 한성대 공학경진대회 창의상)
+  - 🛡️ MonoGaze(구 HeadMon+) — 자전거 라이더 회전 예측 (제22회 한성대 공학경진대회 금상, 2026.09)
 - 📚 관심 분야: Vision-Language Models, 경량 딥러닝, 무선 네트워크 클러스터링, Applied AI
 
 ### 📄 논문·연구
@@ -74,6 +77,7 @@
 
 ### 🏆 수상
 
+- 2026 제22회 한성대 공학경진대회 **금상** — MonoGaze(구 HeadMon+) 자전거 라이더 회전 예측 ([코드](https://github.com/2jungoo/headmon-plus))
 - 2025 한국통신학회 추계학술발표회 학부생 캡스톤디자인 경진대회 **창의상** — AI기반 후방 감지 안전 카메라 ([SafeVision](https://github.com/2jungoo/safevision))
 - 2025 한성 SW중심대학 페스티벌 기업연계 캡스톤 **장려상** — 포엠디엑스 스마트축사 대시보드 ([코드](https://github.com/2jungoo/Corporate-Capstone))
 - 2025 HANSUNG CAMPUSTOWN AI 창업 아이디어 경진대회 **대상** — 멀티모달 강의 요약 플랫폼 (특허 출원 10-2025-0212157로 이어짐)
@@ -85,10 +89,12 @@
 - Google Student Ambassador 1기 — 국내 37개 팀 중 Best Contents Team 선정
 - SW·AI 산학연계프로젝트 해외연수(싱가포르, Presto Labs) — 이상거래 탐지 프로젝트 ([코드](https://github.com/2jungoo/Abuse_Detection))
 - 2026학년도 글로벌 리더십 탐방단(중국 선전) — 드론 배달 경로 최적화 ([코드](https://github.com/2jungoo/drone-delivery-sim))
+- 포토부스 얼굴 이미지 합성 산학협력 프로젝트(HULU) — face swap + GAN 해상도향상·노이즈제거 파이프라인 ([코드](https://github.com/2jungoo/Facebeauty))
+- 특허 출원 10-2025-0212157 (한성대학교 산학협력단, 공동발명자 9인 중 1인) — 학습 콘텐츠의 자동 요약·문제 생성 방법 및 장치
 
 ### 🚀 Key Projects
 
-- **[headmon-plus](https://github.com/2jungoo/headmon-plus)** — Head Pose+IMU 기반 자전거 라이더 회전 예측 (CNN-LSTM-Attention + DANN)
+- **[headmon-plus](https://github.com/2jungoo/headmon-plus)** — MonoGaze(구 HeadMon+) 모델 학습·평가: Head Pose+IMU 기반 자전거 라이더 회전 예측 (CNN-LSTM-Attention + DANN)
 - **[Car_Replay](https://github.com/2jungoo/Car_Replay)** — 자율주행 사고 리플레이·포렌식 분석 파이프라인
 - **[privacy-face-editing](https://github.com/2jungoo/privacy-face-editing)** — LoRA+SAM 기반 조절 가능한 얼굴 익명화
 
